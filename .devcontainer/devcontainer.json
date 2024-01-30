@@ -1,3 +1,5 @@
 {
-  
+  "name": "My malformed default devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "missing": {"closing": "bracket"
 }
